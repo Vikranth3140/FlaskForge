@@ -18,7 +18,7 @@
 ## **Project Structure**
 
 ```plaintext
-my_flask_app/
+FlaskForge/
 ├── app/
 │   ├── __init__.py
 │   ├── models.py
